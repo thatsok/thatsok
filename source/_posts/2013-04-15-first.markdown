@@ -4,6 +4,7 @@ title: "First!"
 date: 2013-04-15 12:51
 comments: true
 categories: 
+published: true
 ---
 
 Hello world!
